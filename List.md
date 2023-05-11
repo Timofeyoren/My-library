@@ -3,6 +3,8 @@
 ## Всё
 * Дока HTML, CSS, JS, Рецепты
 [тык](https://doka.guide/)
+* active-vision.ru/blog разные рецепты
+[тык](https://active-vision.ru/blog/category/javascript/)
 
 ## HTML
 
@@ -25,12 +27,8 @@
 [тык](https://neocities.org/)
 * 42 lern to code
 [тык](https://owlcarousel2.github.io/OwlCarousel2/)
-
 * jsfiddle одна из самых популярных сред веб-разработки, позволяющая редактировать и запускать код, написанный на HTML, JavaScript и CSS, который будет называться «фиддлом».
 [тык](https://jsfiddle.net/)
 * codepen интернет-сообщество, созданное для тестирования и показа сниппетов на основе HTML, CSS и JavaScript/
-* active-vision.ru/blog разные рецепты
-[тык](https://active-vision.ru/blog/category/javascript/)
-
 * Настройка VS code для работы с JS
 [тык](https://itchief.ru/javascript/vscode-setup)
