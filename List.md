@@ -9,6 +9,8 @@
 ## CSS
 * 30 CSS селекторов, которые вы должны запомнить
 [тык](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+* Сброс стилей CSS
+[тык](https://webcademy.ru/blog/739/)
 
 ## JS
 * 15 важных JavaScript методов для веб-разработчиков
@@ -29,3 +31,6 @@
 * codepen интернет-сообщество, созданное для тестирования и показа сниппетов на основе HTML, CSS и JavaScript/
 * active-vision.ru/blog разные рецепты
 [тык](https://active-vision.ru/blog/category/javascript/)
+
+* Настройка VS code для работы с JS
+[тык](https://itchief.ru/javascript/vscode-setup)
